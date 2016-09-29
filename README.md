@@ -1,2 +1,3 @@
-# svg-animate-example
-Simple example of animate SVG
+# SVG Animated
+
+Simple example of animate SVG.
